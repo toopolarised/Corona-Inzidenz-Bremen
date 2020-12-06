@@ -1,19 +1,9 @@
 <html>
 	<head>
-		<style>
-		
-		</style>
+	<style></style>
 			<?php include("./max_index.php");?>
-
-		
 	</head>
 	<body>
-
-	
-	
 	</body>
-	
-	
-	
-	
+
 </html>
