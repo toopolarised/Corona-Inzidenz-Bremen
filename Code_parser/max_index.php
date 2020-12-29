@@ -12,6 +12,11 @@ $index_int = intval($index_str);
 //calculating days
 $index_day = ($index_int-50) ;
 //echo result
-echo "<h2 text-size='80px' >Index: " . $index_str . "<br></h2>";
-echo "<h1 font-size='200px' >Closed, <br> Open in " . ceil($index_day) . " days!</h1>";
+echo "<div><p><b><span>C</span>
+     <span>L</span>
+     <span>O</span>
+     <span>S</span>
+     <span>E</span>  <span>D</span> </b><br><span> Open in" . ceil($index_day) . "days! </span></p>
+</div>";
+
 ?>

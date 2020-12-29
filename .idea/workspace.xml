@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dfa0d3f7-816b-4d7d-95ec-0a5d60323f60" name="Default Changelist" comment="Added description" />
+    <list default="true" id="dfa0d3f7-816b-4d7d-95ec-0a5d60323f60" name="Default Changelist" comment="duplicate">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code_parser/max_index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Code_parser/max_index.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607253447871</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="duplicate">
+      <created>1607336429561</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1607336429561</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -86,11 +96,13 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="code 2" />
     <MESSAGE value="Code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Code" />
+    <MESSAGE value="duplicate" />
+    <option name="LAST_COMMIT_MESSAGE" value="duplicate" />
   </component>
 </project>
